@@ -1,0 +1,1 @@
+{ "name": "car-fuel-cost-calculator", "version": "1.0.0", "description": "Car fuel cost calculator: gas vs hybrid vs plug-in vs electric, yearly and 5-year costs", "main": "server.js", "scripts": { "start": "node server.js" }, "engines": { "node": ">=18" }, "keywords": ["fuel-cost-calculator","ev-vs-gas","mpg","car-specs","electric-vehicles"], "license": "MIT" }
